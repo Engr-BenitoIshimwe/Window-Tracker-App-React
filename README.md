@@ -1,2 +1,2 @@
 ## Window Tracker App with React
-🌎 Website: https://windowtrackerapp.netlify.app/
+🌎 Website: https://windowtrackerapp.netlify.app
